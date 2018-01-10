@@ -3,7 +3,7 @@
 @section('title','Blog Sekolah koding')
 
 @section('content')
-	<h1>Selamat Datang di Rakaal Webisite</h1>
+	<h1>Rakaal Mobile Legends Project</h1>
 	<p> Rakaal Web</p>
 
 	<hr>
